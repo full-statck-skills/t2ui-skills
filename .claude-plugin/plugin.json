@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/t2ui-skills",
-  "repository": "https://github.com/full-statck-skills/t2ui-skills",
+  "homepage": "https://github.com/full-stack-skills/t2ui-skills",
+  "repository": "https://github.com/full-stack-skills/t2ui-skills",
   "source": "./",
   "skills": [
     "./skills/tui-04x",
