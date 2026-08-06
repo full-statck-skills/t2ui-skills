@@ -51,8 +51,8 @@ description: From PRD interface/screen descriptions, output ASCII UI (for PRD su
 
 ## 参考
 
-- 边界与三种输出格式：[docs/boundary-and-outputs.md](../../docs/boundary-and-outputs.md)
-- PRD 界面→多格式约定：[docs/prd-interface-to-multi-format.md](../../docs/prd-interface-to-multi-format.md)
+- 边界与三种输出格式：[`docs/boundary-and-outputs.md`](https://github.com/full-stack-skills/t2ui-skills/blob/main/docs/boundary-and-outputs.md)
+- PRD 界面→多格式约定：[`docs/prd-interface-to-multi-format.md`](https://github.com/full-stack-skills/t2ui-skills/blob/main/docs/prd-interface-to-multi-format.md)
 - 组件词汇表：本库 `tui-*` 组件技能（tui-button、tui-input 等）可在组合界面时引用其语义与规范。
 
 ## 常见陷阱 (Gotchas)
